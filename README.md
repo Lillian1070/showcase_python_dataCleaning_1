@@ -5,12 +5,19 @@
 ## Outline
 
 - Project Overview
-- Data Cleaning Steps
 - Libraries Used
+- Data Cleaning Steps
+
 
 
 ## Project Overview
 This project demonstrates data cleaning techniques using Python libraries such as **Pandas** and **NumPy**. The dataset, sourced from Kaggle, undergoes preprocessing steps like handling missing values, removing duplicates, and standardizing data formats. 
+
+
+## Libraries Used
+- **Pandas**: For data manipulation and cleaning.
+- **NumPy**: For handling numerical operations and missing values.
+
 
 ## Data Cleaning Steps
 1. Loading the Data
@@ -28,6 +35,4 @@ Columns are standardized to appropriate data types, such as converting string da
 5. Final Dataset
 After performing all the cleaning steps, the cleaned dataset is saved and ready for further analysis.
 
-## Libraries Used
-- **Pandas**: For data manipulation and cleaning.
-- **NumPy**: For handling numerical operations and missing values.
+
