@@ -20,6 +20,7 @@ This project demonstrates essential data-cleaning techniques using Python librar
 
 These steps prepare the data for more accurate analysis and modeling.
 
+You can view the full process in the Jupyter Notebook [here](). 
 
 
 ## Dataset Used
