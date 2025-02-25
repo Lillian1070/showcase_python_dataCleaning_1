@@ -4,12 +4,12 @@
 
 ## Table of Contents
 
-1. Project Overview
-2. Data Cleaning Steps
+- Project Overview
+- Data Cleaning Steps
     - Handling Missing Values
     - Removing Duplicates
     - Standardizing Data Formats
-3. Libraries Used
+- Libraries Used
 
 
 ## Project Overview
