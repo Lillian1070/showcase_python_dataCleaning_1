@@ -2,7 +2,7 @@
 
 
 
-## Table of Contents
+## Outline
 
 - Project Overview
 - Data Cleaning Steps
