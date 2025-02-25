@@ -15,7 +15,7 @@
 This project demonstrates data cleaning techniques using Python libraries such as **Pandas** and **NumPy**. The dataset, sourced from Kaggle, undergoes preprocessing steps like handling missing values, removing duplicates, and standardizing data formats. 
 
 ## Dataset Used
-You can access the Kaggle dataset [here]()
+The dataset used in this project is sourced from Kaggle. You can access it [here]().
 
 ## Libraries Used
 - **Pandas**: For data manipulation and cleaning.
