@@ -6,10 +6,10 @@
 
 1. Project Overview
 2. Data Cleaning Steps
-  - Handling Missing Values
-  - Removing Duplicates
-  - Standardizing Data Formats
-5. Libraries Used
+    - Handling Missing Values
+    - Removing Duplicates
+    - Standardizing Data Formats
+3. Libraries Used
 
 
 ## Project Overview
