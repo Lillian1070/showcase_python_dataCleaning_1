@@ -14,8 +14,8 @@
 ## Project Overview
 This project demonstrates essential data-cleaning techniques using Python libraries such as `Pandas` and `NumPy`. The dataset is processed through several preprocessing steps, including:
 
-- Handling missing values through imputation or removal
 - Removing duplicate entries to ensure data integrity
+- Handling missing values through imputation or removal
 - Standardizing data formats for consistency across the dataset
 
 These steps prepare the data for more accurate analysis and modeling.
@@ -36,13 +36,13 @@ The dataset used in this project is sourced from Kaggle. You can access it [here
 
     The dataset is loaded using Pandas `read_csv()` method to read the CSV file from Kaggle.
 
-2. **Handling Missing Values**
-
-    The notebook identifies missing values and demonstrates different ways to handle them, such as filling them with a specific value or dropping rows with missing data.
-
-3. **Removing Duplicates**
+2. **Removing Duplicates**
 
     Any duplicate rows in the dataset are removed using the `drop_duplicates()` function from Pandas to ensure the data is clean.
+
+3. **Handling Missing Values**
+
+    The notebook identifies missing values and demonstrates different ways to handle them, such as filling them with a specific value or dropping rows with missing data.
 
 4. **Standardizing Data Formats**
 
