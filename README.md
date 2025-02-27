@@ -15,8 +15,9 @@
 This project demonstrates essential data-cleaning techniques using Python libraries such as `Pandas` and `NumPy`. The dataset is processed through several preprocessing steps, including:
 
 - Removing duplicate entries to ensure data integrity
-- Handling missing values through imputation or removal
+- Handling outlier and missing values through imputation or removal
 - Standardizing data formats for consistency across the dataset
+- Transforming features to ensure the data is clean, suitable, and well-prepared for analysis or modeling
 
 These steps prepare the data for more accurate analysis and modeling.
 
