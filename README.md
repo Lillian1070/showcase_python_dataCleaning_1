@@ -21,7 +21,7 @@ This project demonstrates essential data-cleaning techniques using Python librar
 
 These steps prepare the data for more accurate analysis and modeling.
 
-You can view the full process in the Jupyter Notebook [here](). 
+You can view the full process in the Jupyter Notebook [here](https://github.com/Lillian1070/showcase_python_dataCleaning_1/blob/main/kaggle_coffeeBean_dataCleaning.ipynb). 
 
 
 ## Dataset Used
