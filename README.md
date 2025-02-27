@@ -17,7 +17,6 @@ This project demonstrates essential data-cleaning techniques using Python librar
 - Removing duplicate entries to ensure data integrity
 - Handling outlier and missing values through imputation or removal
 - Standardizing data formats for consistency across the dataset
-- Transforming features to ensure the data is clean, suitable, and well-prepared for analysis or modeling
 
 These steps prepare the data for more accurate analysis and modeling.
 
@@ -41,9 +40,9 @@ The dataset used in this project is sourced from Kaggle. You can access it [here
 
     Any duplicate rows in the dataset are removed using the `drop_duplicates()` function from Pandas to ensure the data is clean.
 
-3. **Handle Missing Values**
+3. **Handle Outliers and Missing Values**
 
-    The notebook identifies missing values and demonstrates different ways to handle them, such as filling them with a specific value or dropping rows with missing data.
+    The notebook identifies outliers & missing values and demonstrates different ways to handle them, such as filling them with a specific value or dropping rows with missing data.
 
 4. **Standardize Data Formats**
 
