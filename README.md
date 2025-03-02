@@ -1,7 +1,6 @@
 # Data Cleaning with Python
 
 
-
 ### Outline
 
 - Project Overview
