@@ -29,8 +29,9 @@ The dataset used in this project is sourced from Kaggle. You can access it [here
 - **Matplotlib**: For data visualization, including plotting graphs like histograms, scatter plots, etc.
 - **Seaborn**: For statistical data visualization and enhanced graphical representations
 - **SciPy**: For scientific and technical computing, including statistical tests and optimizations (e.g., Shapiro-Wilk test)
-- **re**: For working with regular expressions to manipulate strings and text
 - **Counter**: For counting occurrences of elements in a collection
+- **re**: For working with regular expressions to manipulate strings and text
+
 
 
 
