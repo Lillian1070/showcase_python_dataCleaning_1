@@ -23,7 +23,7 @@ You can view the full process in the Jupyter Notebook [here](https://github.com/
 ## Dataset Used
 The dataset used in this project is sourced from Kaggle. You can access it [here](https://www.kaggle.com/datasets/fatihb/coffee-quality-data-cqi).
 
-## Libraries Used
+## Main Libraries Used
 - **Pandas**: For data manipulation and cleaning.
 - **NumPy**: For handling numerical operations and missing values.
 
