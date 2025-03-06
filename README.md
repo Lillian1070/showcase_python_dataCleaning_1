@@ -14,6 +14,7 @@ This project demonstrates essential data-cleaning techniques using Python librar
 - Removing duplicate entries to ensure data integrity
 - Handling outlier and missing values through imputation or removal
 - Standardizing data formats for consistency across the dataset
+- Transforming features to ensure the data is clean, suitable, and well-prepared for analysis or modeling (optional)
 
 These steps prepare the data for more accurate analysis and modeling.
 
