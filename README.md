@@ -23,10 +23,13 @@ You can view the full process in the Jupyter Notebook [here](https://github.com/
 ## Dataset Used
 The dataset used in this project is sourced from Kaggle. You can access it [here](https://www.kaggle.com/datasets/fatihb/coffee-quality-data-cqi).
 
-## Main Libraries Used
-- **Pandas**: For data manipulation and cleaning.
-- **NumPy**: For handling numerical operations and missing values.
-
+## Libraries Used
+- **Pandas**: For data manipulation, cleaning, and handling dataframes
+- **NumPy**: For handling numerical operations and missing values
+- **Matplotlib**: For data visualization, including plotting graphs like histograms, scatter plots, etc.
+- **Seaborn**: For statistical data visualization and enhanced graphical representations
+- **SciPy**: For scientific and technical computing, including statistical tests and optimizations
+- **re**: For working with regular expressions to manipulate strings and text
 
 
 
