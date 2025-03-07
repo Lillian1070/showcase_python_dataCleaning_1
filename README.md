@@ -52,6 +52,6 @@ These improvements ensure the dataset is clean and ready for further exploration
 
 
 
-_💬 I’d love to hear your thoughts! If you have any suggestions or questions, feel free to connect with me._
+💬 _I’d love to hear your thoughts! If you have any suggestions or questions, feel free to connect with me._
 
 
