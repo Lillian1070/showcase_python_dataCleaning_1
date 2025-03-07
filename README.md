@@ -5,7 +5,7 @@
 
 - Project Overview
 - Dataset Used
-- Key Findings
+- Key Findings & Adjustments
 - Libraries Used
 
 
@@ -26,13 +26,13 @@ You can view the full process in the Jupyter Notebook [here](https://github.com/
 The dataset used in this project is sourced from Kaggle. You can access it [here](https://www.kaggle.com/datasets/fatihb/coffee-quality-data-cqi).
 
 
-## Key Findings
-During the data-cleaning process, several important observations were made:
+## Key Findings & Adjustments
+During the data-cleaning process, several important observations and adjustments were made:
 
-- Outliers: Extreme values were detected in certain numerical columns, and appropriate transformations or flags were applied
-- Missing Values: Some key attributes had missing values, which were handled through imputation or removal
-- Inconsistent Formatting: Data entries contained formatting inconsistencies, which were standardized for consistency
-- Categorical Transformations: Some categorical variables were modified to enhance interpretability and usability
+- **Outliers**: Extreme values were detected in certain numerical columns. These outliers were either flagged for further investigation or imputed using the median to prevent skewing the analysis
+- **Missing Values**: Some key attributes had missing values, which were either removed or imputed using the mode to maintain the integrity of categorical data
+- **Inconsistent Formatting**: Data entries contained formatting inconsistencies, which were standardized (e.g., date format and string capitalization) to ensure consistency
+- **Categorical Transformations**: Some categorical variables were modified (e.g., mapping textual labels to numerical values) to enhance interpretability and usability
 
 These improvements ensure the dataset is clean and ready for further exploration and analysis.
 
