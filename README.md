@@ -3,13 +3,13 @@
 
 ### Outline
 
-- Project Overview
-- Dataset Used
-- Key Findings & Adjustments
-- Libraries Used
+- [Project Overview](#section-1)
+- [Dataset Used](#section-2)
+- [Key Findings & Adjustments](#section-3)
+- [Libraries Used](#section-4)
 
 
-## Project Overview
+## <a name="section-1"></a>📘 Project Overview
 This project demonstrates essential data-cleaning techniques using Python libraries such as `Pandas` and `NumPy`. The dataset is processed through several preprocessing steps, including:
 
 - Removing duplicate entries to ensure data integrity
@@ -22,11 +22,11 @@ These steps prepare the data for more accurate analysis and modeling.
 You can view the full process in the Jupyter Notebook in this repo [here](https://github.com/Lillian1070/showcase_python_dataCleaning_1/blob/main/kaggle_coffeeBean_dataCleaning.ipynb). 
 
 
-## Dataset Used
+## <a name="section-2"></a>📂 Dataset Used
 The dataset used in this project is sourced from Kaggle. You can access it [here](https://www.kaggle.com/datasets/fatihb/coffee-quality-data-cqi).
 
 
-## Key Findings & Adjustments
+## <a name="section-3"></a>🔍 Key Findings & Adjustments
 During the data-cleaning process, several important observations and adjustments were made:
 
 - **Outliers**: Extreme values were detected in certain numerical columns. These outliers were either flagged for further investigation or imputed using the median to prevent skewing the analysis
@@ -37,7 +37,7 @@ During the data-cleaning process, several important observations and adjustments
 These improvements ensure the dataset is clean and ready for further exploration and analysis.
 
 
-## Libraries Used
+## <a name="section-4"></a>📚 Libraries Used
 - **Pandas**: For data manipulation, cleaning, and handling dataframes
 - **NumPy**: For handling numerical operations and missing values
 - **Matplotlib**: For data visualization, including plotting graphs like histograms, scatter plots, etc.
