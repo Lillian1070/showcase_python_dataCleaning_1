@@ -1,8 +1,5 @@
 # Data Cleaning with Python
 
-
-### Outline
-
 - [Project Overview](#section-1)
 - [Dataset Used](#section-2)
 - [Key Findings & Adjustments](#section-3)
